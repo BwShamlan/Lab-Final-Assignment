@@ -1,0 +1,77 @@
+.container {
+    margin: 20px;
+  }
+  
+  input[type="text"] {
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px
+  }
+  
+  .bookmark-item {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px
+  }
+
+  .add-btn {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    border-radius: 5px
+  }
+  
+  .bookmark-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .bookmarks-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0;
+  }
+  
+  .date-added {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  .bookmark-URL-box {
+    margin-top: 10px;
+  }
+  
+  .bookmark-URL {
+    word-break: break-all;
+  }
+  
+  .delete-btn {
+    background-color: #e74c3c;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px
+  }
+
+  .update-btn {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 5px
+  }
+  
+  .update-btn {
+    margin-left: 10px;
+  }
+  
+  
